@@ -124,6 +124,6 @@ pip install -r Requirements.txt
 
 ## 👤 Author
 
-**Anosh S**  
+**Anoshka Roshini S**  
 Internship Project – Machine Learning  
 [GitHub](https://github.com/anosh-hash)
